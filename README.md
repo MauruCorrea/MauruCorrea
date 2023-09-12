@@ -1,4 +1,4 @@
-[comment]: https://icons8.com.br/ icons from 
+
 # Hi 👋 I'm Mauricius
 ### I'm a Programer
 
@@ -11,6 +11,7 @@
 
 [comment]: <> (TODO same gif maybe)
 ## Languages and tools
+[comment]: <> (icons from https://icons8.com.br/ ) 
 [comment]: <> (TODO Change for html tags)
 ![JS](./images/icon-js.svg)![CSS](images/icon-css.svg)![HTML5](./images/icon-html5.svg)![REACT](./images/icon-react.svg)![NODEJS](./images/nodejs-logo.svg)![C](./images/icon-c.svg)![C++](./images/icon-c++.svg)![C#](./images/icon-csharp.svg)
 
