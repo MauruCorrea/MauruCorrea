@@ -5,7 +5,7 @@
 [comment]: <> (-📑 All of my projects are available at: <myWebSite>)
 
 
-<p style="text-align: left;">
+<p style=text-align: left;>
     <a href='www.linkedin.com/in/mauricius-santos-45032615b'>
     <img src="https://img.icons8.com/pulsar-color/48/linkedin.png" alt="Sua Imagem" style="float: left; margin-right: 5px; width:5%;">
     </a>
