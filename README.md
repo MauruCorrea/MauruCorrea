@@ -1,4 +1,4 @@
-
+# UTF-8
 # Hi 👋 I'm Mauricius
 ### I'm a Programer
 
