@@ -1,16 +1,13 @@
-# UTF-8
+
 # Hi 👋 I'm Mauricius
 ### I'm a Programer
 
 [comment]: <> (-📑 All of my projects are available at: <myWebSite>)
 
 
-<p style=text-align: left;>
-    <a href="https//:www.linkedin.com/in/mauricius-santos-45032615b">
-    <img src="https://img.icons8.com/pulsar-color/48/linkedin.png" alt="Sua Imagem" style="float: left; margin-right: 5px; width:5%;">
-    </a>
-    Connect with me
-</p>
+[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/mauricius-santos-45032615b)
+
+
 <p>
  <img width="32" height="32" src="https://img.icons8.com/external-kmg-design-outline-color-kmg-design/32/external-email-internet-marketing-kmg-design-outline-color-kmg-design.png" alt="external-email-internet-marketing-kmg-design-outline-color-kmg-design"/> How to reach me <b style="color: blue;">mauru.cor@gmail.com</b> 
 </p>
