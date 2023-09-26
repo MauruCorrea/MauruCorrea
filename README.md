@@ -4,6 +4,10 @@
 
 [comment]: <> (-📑 All of my projects are available at: <myWebSite>)
 
+<a href="https://www.linkedin.com/in/mauricius-santos-45032615b">
+  <img src="https://img.icons8.com/pulsar-color/48/linkedin.png" alt="Imagem do LinkedIn">
+</a>
+
 ![Imagem do LinkedIn](https://img.icons8.com/pulsar-color/48/linkedin.png)
 Conecte with my [LinkedIn](https://www.linkedin.com/in/mauricius-santos-45032615b)
 
