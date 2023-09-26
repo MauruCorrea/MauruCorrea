@@ -5,12 +5,10 @@
 [comment]: <> (-📑 All of my projects are available at: <myWebSite>)
 
 ![Imagem do LinkedIn](https://img.icons8.com/pulsar-color/48/linkedin.png)
-[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/mauricius-santos-45032615b)
+Conecte with my [LinkedIn](https://www.linkedin.com/in/mauricius-santos-45032615b)
 
-
-<p>
- <img width="32" height="32" src="https://img.icons8.com/external-kmg-design-outline-color-kmg-design/32/external-email-internet-marketing-kmg-design-outline-color-kmg-design.png" alt="external-email-internet-marketing-kmg-design-outline-color-kmg-design"/> How to reach me <b style="color: blue;">mauru.cor@gmail.com</b> 
-</p>
+![Imagem Carta](https://img.icons8.com/external-kmg-design-outline-color-kmg-design/32/external-email-internet-marketing-kmg-design-outline-color-kmg-design.png)
+How to reach me mauru.cor@gmail.com
 
 [comment]: <> (TODO same gif maybe)
 
