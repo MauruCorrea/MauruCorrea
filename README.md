@@ -4,7 +4,7 @@
 
 [comment]: <> (-📑 All of my projects are available at: <myWebSite>)
 
-
+![Imagem do LinkedIn](https://img.icons8.com/pulsar-color/48/linkedin.png)
 [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/mauricius-santos-45032615b)
 
 
