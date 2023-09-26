@@ -5,7 +5,7 @@
 [comment]: <> (-📑 All of my projects are available at: <myWebSite>)
 
 ![Imagem do LinkedIn](https://img.icons8.com/pulsar-color/48/linkedin.png)
-Conecte with my [LinkedIn](https://www.linkedin.com/in/mauricius-santos-45032615b)
+Conecte with [me](https://www.linkedin.com/in/mauricius-santos-45032615b)
 
   ![Imagem Carta](https://img.icons8.com/external-kmg-design-outline-color-kmg-design/32/external-email-internet-marketing-kmg-design-outline-color-kmg-design.png)
 How to reach me mauru.cor@gmail.com
